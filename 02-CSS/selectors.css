@@ -1,1 +1,13 @@
-/* Add CSS selectors practice here */
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    color: gray;
+    font-size: 18px;
+}
+
+body {
+    background-color: lightyellow;
+}
