@@ -1,1 +1,11 @@
-/* Add CSS Grid practice here */
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+}
+
+.box {
+    background-color: lightblue;
+    padding: 30px;
+    text-align: center;
+}
